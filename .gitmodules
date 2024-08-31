@@ -1,0 +1,3 @@
+[submodule "bleck-log/themes/ananke"]
+	path = bleck-log/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
